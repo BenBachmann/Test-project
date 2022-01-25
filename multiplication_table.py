@@ -1,3 +1,5 @@
+#Created by Ben Bachmann in 12/2021
+
 # print multiplication table
 
 number = int(input("number: "))
